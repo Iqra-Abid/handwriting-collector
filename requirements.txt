@@ -3,3 +3,7 @@ streamlit-drawable-canvas
 opencv-python-headless
 numpy
 pillow
+gdown
+google-auth
+google-auth-oauthlib
+google-api-python-client
